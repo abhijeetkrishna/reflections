@@ -7,3 +7,8 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is what will be stored in the .git repository and not the contents from the working directory.
 The value it offers is that we don't have to store everything everytime. We can just save whatever is in the staging area. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+We can keep the stuff on the staging area unless we think that we have finished the logical change and then we can just commit.
+
