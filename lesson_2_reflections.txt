@@ -25,3 +25,10 @@ What is the result of merging two branches together? Why do we represent it in t
 
 It combines the edits. Makes it easier to understand!
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The automatic part is good because whenever the edits are to be obviously merged, then we would not have to do it manually. 
+However, we might be trying to merge two edits on the same component of the code in which case it will take a human to decide which version to keep.
+In such cases, manual merging is necessary.
+Manual merging thus mitigates the birth of bugs in the code.
+
