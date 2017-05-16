@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 When making a slightly diff version of the project.
 Or building on the previous version.
+
+How do the diagrams help you visualize the branch structure?
+
+Because you can see by the direction of arrows which commits are reachable and which are not.
