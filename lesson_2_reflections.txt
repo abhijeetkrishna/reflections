@@ -20,3 +20,8 @@ Or building on the previous version.
 How do the diagrams help you visualize the branch structure?
 
 Because you can see by the direction of arrows which commits are reachable and which are not.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It combines the edits. Makes it easier to understand!
+
